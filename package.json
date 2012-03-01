@@ -1,0 +1,9 @@
+{
+    "name": "happy_skype",
+    "version": "0.0.1",
+    "dependencies": {
+      "sqlite3": "",
+      "color-terminal": "",
+      "nodeunit": ""
+    }
+}
